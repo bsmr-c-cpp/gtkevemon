@@ -1,7 +1,10 @@
 # git ignore for gtkevemon
+# core dumps
+core
 
 # object files 
 .*\.o$
+*.o
 
 # orig from hg revert
 .*\.orig$
